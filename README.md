@@ -2,7 +2,6 @@
  
 Justice Portal is a web-based platform designed to streamline interactions between administrators, lawyers, and clients. This system simplifies lawyer-client communication, ensures efficient booking, and provides secure account management features for all users.
 
----
 
 ### Features  
 
@@ -16,7 +15,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 3. **Change Password**  
    - Admins can securely update their account password.
 
----
+
 
 **Lawyer Features**  
    - Viewable by Admin and Clients. (Lawyers don't log in directly in this version.)
@@ -39,7 +38,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 5. **Change Password**  
    - Clients can securely update their account password.
 
----
+
 
 ## Installation Instructions  
 
@@ -67,7 +66,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
    - Place the project folder in the `htdocs` directory.  
    - Access the site at: `http://localhost/justice-portal`.
 
----
+
 
 ## Technologies  
 
@@ -75,7 +74,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
    - **Backend**: PHP  
    - **Database**: MySQL  
 
----
+
 
 ## Usage Instructions  
 
@@ -89,14 +88,14 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 3. **Booking Lawyers**  
    - After logging in, navigate to the lawyer profiles section, view details, and click "Book Now."  
 
----
+
 
 ## Security Features  
 
    - Passwords are encrypted for secure storage.  
    - User sessions are implemented to ensure account security.  
 
----
+
 
 
 
