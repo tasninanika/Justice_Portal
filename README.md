@@ -42,7 +42,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 
 
 
-## Installation Instructions  
+## Installation
 
 1. **Clone the Repository**  
    ```bash
@@ -78,7 +78,7 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 
 
 
-## Usage Instructions  
+## Usage 
 
 1. **Admin Login**  
    - Navigate to the admin login page (`/admin`).  
