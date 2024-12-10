@@ -3,9 +3,9 @@
 Justice Portal is a web-based platform designed to streamline interactions between administrators, lawyers, and clients. This system simplifies lawyer-client communication, ensures efficient booking, and provides secure account management features for all users.
 
 
-### Features  
+## Features  
 
-**Admin Features**  
+### Admin Features 
 1. **Add Lawyers**  
    - Admins can add new lawyer profiles to the system.  
 
@@ -18,13 +18,13 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 
 
 
-**Lawyer Features**  
+## Lawyer Features  
    - Viewable by Admin and Clients. (Lawyers don't log in directly in this version.)
 
 
 
 
-**Client Features**  
+## Client Features 
 1. **Lawyer Profile Browsing**  
    - Clients can log in and view detailed profiles of lawyers.  
 
