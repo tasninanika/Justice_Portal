@@ -1,31 +1,31 @@
-**Justice Portal**
+##Justice Portal
 
-Project Overview  
+##Project Overview  
 Justice Portal is a web-based platform designed to streamline interactions between administrators, lawyers, and clients. This system simplifies lawyer-client communication, ensures efficient booking, and provides secure account management features for all users.
 
 ---
 
-Key Features  
+##Key Features  
 
-Admin Features  
-1. Add Lawyers  
+**Admin Features**  
+1. **Add Lawyers**  
    - Admins can add new lawyer profiles to the system.  
 
-2. View Users 
+2. **View Users** 
    - Admins can view a list of all registered lawyers and clients also can block any clients.  
 
-3. Change Password  
+3. **Change Password**  
    - Admins can securely update their account password.
 
 ---
 
-Lawyer Features  
+**Lawyer Features**  
 - Viewable by Admin and Clients. (Lawyers don't log in directly in this version.)
 
 ---
 
-Client Features  
-1. Lawyer Profile Browsing  
+**Client Features**  
+1. **Lawyer Profile Browsing**  
    - Clients can log in and view detailed profiles of lawyers.  
 
 2. **Book a Lawyer**  
@@ -52,7 +52,7 @@ Installation Instructions
 
 2. **Configure Database**  
    - Create a database in your preferred DBMS.  
-   - Import the provided SQL file (`justice_portal.sql`) into your database.  
+   - Import the provided SQL file (`lawyermanagementsystem.sql`) into your database.  
 
 3. **Update Configuration Files**  
    - Update database connection settings in `config.php` with your database credentials:  
