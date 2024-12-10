@@ -17,10 +17,12 @@ Justice Portal is a web-based platform designed to streamline interactions betwe
 
 
 
+
 **Lawyer Features**  
    - Viewable by Admin and Clients. (Lawyers don't log in directly in this version.)
 
----
+
+
 
 **Client Features**  
 1. **Lawyer Profile Browsing**  
